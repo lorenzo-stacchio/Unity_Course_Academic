@@ -39,7 +39,6 @@ public class PlayerManager : MonoBehaviour
                 nextFireTime = Time.time + fireInterval;
             }
         }
-        //Fire();
 
         transform.Translate(move * moveSpeed * Time.deltaTime);
     }
