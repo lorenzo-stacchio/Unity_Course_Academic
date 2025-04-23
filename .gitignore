@@ -72,3 +72,11 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/Unity_basics/Assets/TextMesh Pro
+/Unity_basics/Library/Artifacts
+/Unity_basics/Library/Bee/artifacts
+/Unity_basics/Library/Bee
+/Unity_basics/Library/PackageCache
+/Unity_basics/Library
+/Unity_basics/Logs
+/Unity_basics/Temp
