@@ -80,3 +80,10 @@ crashlytics-build.properties
 /Unity_basics/Library
 /Unity_basics/Logs
 /Unity_basics/Temp
+/AVATAR_SDK_TEST/Assets/Oculus
+/AVATAR_SDK_TEST/Assets/Samples
+/AVATAR_SDK_TEST/Library
+/AVATAR_SDK_TEST/Temp
+/AVATAR_SDK_TEST/Logs
+/AVATAR_SDK_TEST/obj
+/AVATAR_SDK_TEST/Assets/StreamingAssets

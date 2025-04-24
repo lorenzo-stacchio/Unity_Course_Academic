@@ -15,6 +15,7 @@ public class RandomMovement : MonoBehaviour
         this.move = new Vector3(1, 0, 0);
     }
 
+
     // Update is called once per frame
     void Update()
     {
