@@ -87,3 +87,4 @@ crashlytics-build.properties
 /AVATAR_SDK_TEST/Logs
 /AVATAR_SDK_TEST/obj
 /AVATAR_SDK_TEST/Assets/StreamingAssets
+/AR_demo_android/Library
