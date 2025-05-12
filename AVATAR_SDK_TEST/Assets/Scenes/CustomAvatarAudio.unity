@@ -865,6 +865,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LipSyncInputCustom
       objectReference: {fileID: 0}
+    - target: {fileID: 5173363530753156140, guid: 1b8976c25e6d368478c248a12789fe75, type: 3}
+      propertyPath: Loop
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5173363530753156143, guid: 1b8976c25e6d368478c248a12789fe75, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -903,6 +907,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5173363530753156143, guid: 1b8976c25e6d368478c248a12789fe75, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8161421969113677254, guid: 1b8976c25e6d368478c248a12789fe75, type: 3}
+      propertyPath: Loop
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8161421969113677254, guid: 1b8976c25e6d368478c248a12789fe75, type: 3}
+      propertyPath: m_PlayOnAwake
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []

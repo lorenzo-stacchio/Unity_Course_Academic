@@ -88,3 +88,8 @@ crashlytics-build.properties
 /AVATAR_SDK_TEST/obj
 /AVATAR_SDK_TEST/Assets/StreamingAssets
 /AR_demo_android/Library
+/google_cardboard_sdk/Assets/GoogleVR/Editor
+/google_cardboard_sdk/Assets/GoogleVR/Plugins
+/google_cardboard_sdk/Assets/GoogleVR
+/google_cardboard_sdk/Library
+/google_cardboard_sdk/Assets/TextMesh Pro
