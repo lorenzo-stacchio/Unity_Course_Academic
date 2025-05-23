@@ -93,3 +93,6 @@ crashlytics-build.properties
 /google_cardboard_sdk/Assets/GoogleVR
 /google_cardboard_sdk/Library
 /google_cardboard_sdk/Assets/TextMesh Pro
+/ClassVR/Assets/Samples
+/ClassVR/Assets/TextMesh Pro
+/ClassVR/Library
